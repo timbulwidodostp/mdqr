@@ -1,6 +1,8 @@
 # mdqr
 Minimum distance quantile regression (MDQR) estimator suggested in Melly and Pons (2023) Use mdqr With (In) R Software
 
+https://www.youtube.com/watch?v=6yz5IMASFAg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
